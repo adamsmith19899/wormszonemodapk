@@ -18,7 +18,6 @@ Welcome to the official repository for **Worms Zone Mod APK**! This repository p
 
 Click the link below to download the latest version of Worms Zone Mod APK:
 
-[Download Worms Zone Mod APK](#)
 
 **Note**: Make sure to enable "Unknown Sources" in your device settings before installing the APK.
 
